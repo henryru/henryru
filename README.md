@@ -1,12 +1,14 @@
-## 🔹 Track and Field Fantasy App
-A full-stack fantasy league application where users draft collegiate runners and earn points based on real race results.
+# Henry Ruckman-Utting
 
-#### 🚀 Key Features  
-- **Web Scraping:** Extracted data for **64,000+ collegiate athletes** with a custom-built scraper.  
-- **Frontend:** Built with **Angular** for a dynamic, responsive experience.  
-- **Backend:** **Node.js + WebSockets** for real-time drafting and live updates.  
-- **Database:** Designed a **SQL database** with constraints and stored procedures to ensure data integrity.  
+I'm a Computer Science student at Simon Fraser University and an NCAA Division II track & field athlete. I like building full-stack applications and working across the entire stack.
 
-#### 🎥 Demo
-https://github.com/user-attachments/assets/69a79250-8fe3-49b3-b1c8-6e989dc0c289
+## Projects
 
+### [BiteList](https://bitelist.ca)
+A social dining app where users post bites, review individual dishes at restaurants, and follow friends. Built with React Native, Express/Node, and Redis. Includes an AI-powered data pipeline using OCR and embedding models to process 5,000+ restaurant menus.
+
+### [Deptex](https://github.com/deptex/deptex)
+An open-source application security posture management (ASPM) platform. Features multi-stage extraction pipelines, reachability analysis across 8 languages using Semgrep and tree-sitter, and a policy-as-code engine with contextual vulnerability scoring. Built with TypeScript, React, Express, PostgreSQL, and Docker.
+
+### LapLeague
+A fantasy sports app for collegiate track & field. Users draft from a database of 64,000+ athletes, compete in real-time drafts via WebSockets, and earn points based on actual race results. Built with Angular, Node.js, and SQL.
